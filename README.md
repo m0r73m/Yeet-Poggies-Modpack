@@ -6,9 +6,9 @@ Updated 12/8/2020
 How to install
 1. Make sure the minecraft launcher is closed
 
-2. Run the vivecraft.exe file to see vr players arms and stuff
-or
-2. Run the forge.jar file to run normal forge
+ Do one of the following -
+2.1 Run the vivecraft.exe file to see vr players arms and stuff
+2.2 Run the forge.jar file to run normal forge
 
 3. Hit windows key + r and type %appdata%
 4. Open the .minecraft folder
